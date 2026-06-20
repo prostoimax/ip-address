@@ -52,7 +52,7 @@ ____
 ```
 
 
-![Screenshot](https://rockblack.su/images/Screenshot_160.jpg)
+![Screenshot](https://rockblack.pro/images/Screenshot_160.jpg)
 
 ____
 # Поиск ip адресов по доменам 
@@ -101,9 +101,9 @@ ____
 
 `1.0.0.1`  cloudflare-dns.com
 
-![Screenshot](https://rockblack.su/images/vless/DNS1.jpg)
+![Screenshot](https://rockblack.pro/images/vless/DNS1.jpg)
 
-![Screenshot](https://rockblack.su/images/vless/DNS2.jpg)
+![Screenshot](https://rockblack.pro/images/vless/DNS2.jpg)
 
 Отключить **IPv6** и поставить птичку **Игнорировать DNS провайдера**
 
