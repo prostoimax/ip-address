@@ -2,7 +2,7 @@
 
  Зайти в web интерфейс роутера, выбрать `Меню/ Маршрутизация / Загрузить из файла` http://192.168.1.1/staticRoutes В строке интерфейс выбрать ваш VPN конфиг (разницы нет **OpenVPN, PPTP, WireGuard, AmneziaWG, Socks5**) и нажать загрузить. Если с первого раза не загрузились все маршруты, еще раз нажать загрузить и роутер добавит недостающие маршруты.
 
-![Screenshot](https://rockblack.su/images/Screenshot_153.jpg)
+![Screenshot](https://rockblack.pro/images/Screenshot_153.jpg)
 > [!NOTE]
 > Таким способом выход в Youtube, Instagram и другие сервисы будет через VPN, а на другие сервисы и сайты через вашего провайдера.
 
@@ -58,7 +58,7 @@ ____
 # Поиск ip адресов по доменам 
 
 Введите домены и нажмите **Найти IP**
-https://rockblack.pro/ip-address
+https://rockbl.info/
 
 
 ![Screenshot](https://rockblack.pro/images/github/Screenshot_10.jpg)
